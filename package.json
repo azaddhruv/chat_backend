@@ -1,0 +1,23 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/translate": "^8.5.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "google-translate-api": "^2.3.0",
+    "google-translate-api-x": "^10.7.1",
+    "mongoose": "^8.8.3",
+    "socket.io": "^4.8.1",
+    "translate-google": "^1.5.0"
+  }
+}
